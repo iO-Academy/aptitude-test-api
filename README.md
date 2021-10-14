@@ -1,5 +1,8 @@
 # Aptitude test RESTful API
 
+This repo is the API for the academy aptitude test, built by the trainers. It works with:
+https://github.com/iO-Academy/aptitude-test-react
+
 ### Local setup
 
 - Clone this Repo
